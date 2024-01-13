@@ -5,7 +5,7 @@
 
 Since 2014 I have worked in the software testing area, I have a postgraduate degree in Quality Engineering, certified CTFL-AT (Certified Tester Foundation Level, Agile Tester), AZ-900, among others! I have experience with automated Web and API testing. I work with the development and implementation of automated tests with Robot Framework and Continuous Testing.
 
-## Tecnologias
+## Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 </div>
