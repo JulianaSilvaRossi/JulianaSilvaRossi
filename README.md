@@ -1,9 +1,9 @@
 
-# Olá, sou Juliana Rossi, bem vindo ao meu GitHub 👋
+# Hello, I'm Juliana Rossi, welcome to my GitHub 👋
 
-## Engenheira de Qualidade de Software 😍
+## Software Quality Engineer 😍
 
-Desde 2014 atuo na área de testes de software, sou pós graduada em Engenharia de Qualidade, certificada CTFL-AT (Certified Tester Foundation Level, Agile Tester) dentre outras! Tenho experiência com testes web e API automatizados. Atuo com desenvolvimento e implantação de testes automatizados com Robot Framework e Continuous Testing.
+Since 2014 I have worked in the software testing area, I have a postgraduate degree in Quality Engineering, certified CTFL-AT (Certified Tester Foundation Level, Agile Tester), AZ-900, among others! I have experience with automated Web and API testing. I work with the development and implementation of automated tests with Robot Framework and Continuous Testing.
 
 ## Tecnologias
 <div>
